@@ -1,0 +1,21 @@
+# .gitignore
+
+# Python artifacts
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
