@@ -1,2 +1,4 @@
+import webbrowser
+
 def hello_nugu():
-    print("Hello, It's NUGU!")
+    webbrowser.open("https://yangchoi.dev/")
